@@ -1,0 +1,47 @@
+[
+  {
+    "file": "public/assets/images/monte-carlo-casino.jpg",
+    "provider": "Pixabay",
+    "author": "Charlottees",
+    "sourceUrl": "https://pixabay.com/photos/monaco-monte-carlo-casino-building-4629506/",
+    "license": "Pixabay Content License",
+    "licenseUrl": "https://pixabay.com/service/license-summary/",
+    "fetchedAt": "2026-09-29"
+  },
+  {
+    "file": "public/assets/images/monaco-prince-palace.jpg",
+    "provider": "Pixabay",
+    "author": "Hans",
+    "sourceUrl": "https://pixabay.com/photos/prince-palace-monaco-palace-187312/",
+    "license": "Pixabay Content License",
+    "licenseUrl": "https://pixabay.com/service/license-summary/",
+    "fetchedAt": "2026-09-29"
+  },
+  {
+    "file": "public/assets/images/monaco-port-yachts.jpg",
+    "provider": "Pixabay",
+    "author": "Alexandra_Koch",
+    "sourceUrl": "https://pixabay.com/photos/port-yachts-monaco-monte-carlo-7501955/",
+    "license": "Pixabay Content License",
+    "licenseUrl": "https://pixabay.com/service/license-summary/",
+    "fetchedAt": "2026-09-29"
+  },
+  {
+    "file": "public/assets/images/monaco-harbor-at-dusk.jpg",
+    "provider": "Pixabay",
+    "author": "16018388",
+    "sourceUrl": "https://pixabay.com/photos/architecture-big-city-black-boats-5072728/",
+    "license": "Pixabay Content License",
+    "licenseUrl": "https://pixabay.com/service/license-summary/",
+    "fetchedAt": "2026-09-29"
+  },
+  {
+    "file": "public/assets/images/monaco-larvotto-coast.jpg",
+    "provider": "Pixabay",
+    "author": "MrJayW",
+    "sourceUrl": "https://pixabay.com/photos/beach-the-city-monaco-3400920/",
+    "license": "Pixabay Content License",
+    "licenseUrl": "https://pixabay.com/service/license-summary/",
+    "fetchedAt": "2026-09-29"
+  }
+]

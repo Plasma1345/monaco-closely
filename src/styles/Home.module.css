@@ -1,0 +1,7 @@
+.shell { min-height: 100vh; padding: 72px clamp(20px, 5vw, 80px); }
+.hero { max-width: 760px; display: grid; gap: 20px; }
+.hero h1 { margin: 0; font-size: clamp(42px, 7vw, 92px); line-height: .9; letter-spacing: 0; }
+.hero p { margin: 0; max-width: 640px; color: #4b587c; font-size: 18px; line-height: 1.7; }
+.kicker { width: fit-content; display: inline-flex; align-items: center; gap: 8px; color: #8a5b10; font-weight: 700; }
+.grid { margin-top: 56px; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+@media (max-width: 800px) { .grid { grid-template-columns: 1fr; } .shell { padding-top: 40px; } }
